@@ -1,4 +1,4 @@
-<img  src="logo.png" height="25%" weight="25%" alt="Logo"/>
+<img  src="logo.png" height=256 weight=256 alt="Logo"/>
 
 # StackInFlow
 ###### we are a group of techies who loves open source 👨‍💻
