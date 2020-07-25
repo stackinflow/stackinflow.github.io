@@ -1,4 +1,4 @@
-<img  src="logo.png" height=256 weight=256 alt="Logo"/>
+[![Logo](https://avatars3.githubusercontent.com/u/64734253?s=256&v=4)](logo.png)
 
 # StackInFlow
 ###### we are a group of techies who loves open source 👨‍💻
