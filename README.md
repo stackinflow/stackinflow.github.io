@@ -1,5 +1,8 @@
 [![Logo](https://avatars3.githubusercontent.com/u/64734253?s=256&v=4)](logo.png)
 
+[![Repos Badge](https://badges.pufler.dev/repos/stackinflow)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/stackinflow/stackinflow.github.io)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/stackinflow)](https://badges.pufler.dev)
+
+
 # StackInFlow
 ###### we are a group of techies who loves open source 👨‍💻
 
